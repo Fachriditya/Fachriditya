@@ -84,8 +84,8 @@ new technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fachriditya&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-README.md-stats.vercel.app/api?username=Fachriditya&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fachriditya&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Fachriditya&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fachriditya&layout=compact&theme=tokyonight)
+![Top Languages](https://github-README.md-stats.vercel.app/api/top-langs/?username=Fachriditya&layout=compact&theme=tokyonight)
