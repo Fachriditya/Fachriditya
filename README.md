@@ -33,13 +33,13 @@ new technologies.
 
 ### 🎓 Student Tasks
 
-- **Student Task – Pemrograman Basis Data**  
-  📘 Projek Ujian Akhir Semester Mata Kuliah Pemrograman Basis Data 2025  
+- **Pemrograman Basis Data**  
+  📘 Projek UAS MK PBD 2025  
   🛠️ MySQL, SQL, Laravel
   🔗 [Repository](https://github.com/username/student-task-database)
 
-- **Student Task – Pengembangan Web Berbasis Framework**  
-  📘 Projek Ujian Akhir Semester Mata Kuliah Pengembangan Web Berbasis Framework 2025  
+- **Pengembangan Web Berbasis Framework**  
+  📘 Projek UAS MK PWBF 2025  
   🛠️ Laravel
   🔗 [Repository](https://github.com/username/student-task-data-structures)
 
