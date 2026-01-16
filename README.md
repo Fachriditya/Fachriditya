@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ditya
+# ![Header](./header_banner.png)
+
 
 ## 👨‍💻 About Me
 Mahasiswa Informatika yang suka ngoding, ngoprek Linux, dan bikin project random tapi niat.
