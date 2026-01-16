@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ditya
 
-<!--
-**Fachriditya/Fachriditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Mahasiswa Informatika yang suka ngoding, ngoprek Linux, dan bikin project random tapi niat.
 
-Here are some ideas to get you started:
+## 🎞️ Animation
+![coding gif](https://media.giphy.com/media/...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- Python
+- Java
+- PHP
+- SQL
+
+## 💼 Projects
+- [Student Task App](https://github.com/username/student-task)
+- [Portfolio Website](https://github.com/username/portfolio)
+
+## 🎮 Hobbies
+- Ngoding
+- Nonton anime
+- Ngoprek server
+
+## 🌐 Connect with Me
+- Instagram: https://instagram.com/xxx
+- LinkedIn: https://linkedin.com/in/xxx
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fachriditya&show_icons=true)
