@@ -98,7 +98,7 @@
 
 ## 🎯 Hobbies & Interests
 
-<summary>🎮 Playing Games</summary><br>
+<summary>🎮 Games</summary><br>
 
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/USERNAME)
   [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/USERNAME)
