@@ -72,13 +72,13 @@
 
 - **Pemrograman Basis Data**  
   📘 Projek UAS MK PBD 2025  
-  🛠️ MySQL, SQL, Laravel                       
+  🛠️ MySQL, Laravel                       
   🔗 [Repository](https://github.com/Fachriditya/student-task-pbd-uas-2025)
 
 - **Pengembangan Web Berbasis Framework**  
   📘 Projek UAS MK PWBF 2025  
   🛠️ Laravel                           
-  🔗 [Repository](https://github.com/username/student-task-data-structures)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pwbf-uas-2025)
 
 </details>
 
