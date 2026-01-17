@@ -98,7 +98,7 @@
 
 ## 🎯 Hobbies & Interests
 
-<summary>🎮 Games (Mobile Legends, Valorant, Clash Royale)</summary><br>
+<summary>🎮 Playing Games</summary><br>
 
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/USERNAME)
   [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/USERNAME)
@@ -127,5 +127,5 @@
 <!-- Footer -->
 
 <p align="center">
-  © 2026 Fachriditya • Don't Give UP
+  © 2026 Fachriditya • Start with Passion, End with Character
 </p>
