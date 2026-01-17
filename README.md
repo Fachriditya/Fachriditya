@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./header_banner.png" width="100%"/>
+  <img src="./header_banner.gif" width="100%"/>
 </div>
 
 ---
