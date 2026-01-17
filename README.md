@@ -100,16 +100,16 @@
 
 <summary>🎮 Games</summary><br>
 
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/USERNAME)
-  [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/USERNAME)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199099882631/)
+  [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/en-US/u/847a283e7c224102a6166ae0e8ee60f4)
 
 <summary>🎬 Anime, Manga, Novels  & K-Drama</summary><br>
 
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/USERID)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/750964051697467433)
   
 <summary> 🎸 Guitar & Singing </summary><br>
 
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/USERNAME)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/h9hpwrgkdkam52nyt1861ye6k?si=7e0b3a3dee2d450f)
 
 
 ---
