@@ -93,7 +93,7 @@
 - **Family Wallet 2026**  
   🌐 Personal project sederhana untuk tabungan keluarga menggunakan Laravel                                
   🛠️ MySQL, Laravel, Tailwind CSS                           
-  🔗 [Repository](https://github.com/Fachriditya/project-dev-famwall-personal-2026)
+  🔗 [Repository](https://github.com/Fachriditya/project-dev-family-wallet-2026)
 
 </details>
 
