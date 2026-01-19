@@ -67,7 +67,7 @@
 
 ## 📂 Projects
 
-<details open>
+<details>
 <summary>🎓 Student Tasks</summary>
 
 - **Pemrograman Basis Data**  
