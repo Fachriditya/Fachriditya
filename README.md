@@ -85,11 +85,6 @@
 <details>
 <summary>💼 Development Projects</summary>
 
-- **Personal Portfolio Website**  
-  🌐 A simple personal website to showcase my profile and projects  
-  🛠️ HTML, CSS, JavaScript  
-  🔗 [Repository](https://github.com/username/portfolio-website)
-
 - **Family Wallet 2026**  
   🌐 Personal project sederhana untuk tabungan keluarga menggunakan Laravel                                
   🛠️ MySQL, Laravel, Tailwind CSS                           
