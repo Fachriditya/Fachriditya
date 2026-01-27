@@ -17,7 +17,7 @@
 
 ⚙️ I'm an **Informatics Engineering student** at **Airlangga University**, class of **2024**.
 
-🧠 Strong interest in **Web Development**, **Game Development**, **Databases**, **Cybersecurity**, **Machine Learning** and **Hardware & Software Systems**.
+🧠 Strong interest in **Software Development**, **System Analyst**, **Databases**, **Cybersecurity**, **Machine Learning**, **Cloud Computing** and **Hardware & Software Technologies**.
 
 🛠️ Currently learning by **building projects independently** and exploring new technologies.
 
