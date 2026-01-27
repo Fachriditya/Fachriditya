@@ -132,5 +132,5 @@
 <!-- Footer -->
 
 <p align="center">
-  © 2026 Fachriditya • Always Learning Guysss
+  © 2026 Fachriditya • Just code it !!!
 </p>
