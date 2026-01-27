@@ -83,8 +83,8 @@
 </details>
 
 <details>
-<summary>💼 Development Projects</summary>
-
+<summary>💼 Development Projects</summary><br>
+  
 - **Family Wallet 2026**  
   🌐 Personal project sederhana untuk tabungan keluarga menggunakan Laravel                                
   🛠️ MySQL, Laravel, Tailwind CSS                           
