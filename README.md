@@ -83,12 +83,17 @@
 </details>
 
 <details>
-<summary>💼 Development Projects</summary><br>
+<summary>💼 Development Projects</summary>
   
 - **Family Wallet 2026**  
   🌐 Personal project sederhana untuk tabungan keluarga menggunakan Laravel                                
   🛠️ MySQL, Laravel, Tailwind CSS                           
   🔗 [Repository](https://github.com/Fachriditya/project-dev-family-wallet-2026)
+
+- **Informatics Learning 2026**  
+  🌐 Personal project sederhana untuk pembelajaran dalam Bidang IT secara Mandiri                                
+  🛠️ MySQL, Laravel, Tailwind CSS                           
+  🔗 [Repository](https://github.com/Fachriditya/project-dev-informatics-learning-2026)
 
 </details>
 
