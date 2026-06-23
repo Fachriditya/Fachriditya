@@ -84,7 +84,7 @@
   🔗 [Repository](https://github.com/Fachriditya/student-task-pplprak-familywallet-2026.git)
 
 - **Workshop Framework**  
-  📘 Web untuk Modul Penugasan MK Workshop Framework 2026                          
+  📘 Web untuk Modul-Modul Penugasan MK Workshop Framework 2026                          
   🛠️ Laravel                          
   🔗 [Repository](https://github.com/Fachriditya/student-task-frameworkshop-koleksibuku-2026.git)
   
