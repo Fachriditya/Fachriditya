@@ -67,7 +67,7 @@
 
 <details>
 <summary>🎓 Student Tasks</summary>
-
+  
 - **Pemrograman Basis Data Praktikum**  
   📘 Projek UAS MK PBD Praktikum 2025  
   🛠️ MySQL, Laravel                       
@@ -102,7 +102,7 @@
 
 <details>
 <summary>💼 Development Projects</summary>
-                                                                                                    
+  
 - **Qitchen Restaurant Workflow System (2026)**                                
   🌐 Personal project for a modern restaurant workflow and management system                       
   🛠️ Laravel, MySQL, Tailwind CSS                                  
