@@ -103,7 +103,7 @@
 <details>
 <summary>💼 Development Projects</summary>
   
-- **Qitchen Restaurant Workflow System (2026)**
+- **Qitchen Restaurant Workflow System (2026)**                                
   🌐 Personal project for a modern restaurant workflow and management system                       
   🛠️ Laravel, MySQL, Tailwind CSS                                  
   🔗 [Repository](https://github.com/Fachriditya/project-dev-qitchen-2026.git)
