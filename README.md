@@ -76,22 +76,22 @@
 - **Pengembangan Web Berbasis Framework**  
   📘 Projek UAS MK PWBF Praktikum 2025  
   🛠️ Laravel                           
-  🔗 [Repository](https://github.com/Fachriditya/student-task-pwbfprak-rshp-2025.)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pwbfprak-rshp-2025.git)
 
 - **Pengujian Perangkat Lunak Praktikum**  
   📘 Personal project sederhana bertema tabungan keluarga menggunakan Laravel untuk MK PPL Praktikum 2026                          
   🛠️ MySQL, Laravel, Tailwind CSS                           
-  🔗 [Repository](https://github.com/Fachriditya/student-task-pplprak-familywallet-2026.)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pplprak-familywallet-2026.git)
 
 - **Workshop Framework**  
   📘 Web untuk Modul Penugasan MK Workshop Framework 2026                          
   🛠️ Laravel                          
-  🔗 [Repository](https://github.com/Fachriditya/student-task-frameworkshop-koleksibuku-2026.)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-frameworkshop-koleksibuku-2026.git)
   
 - **Kecerdasan Buatan Praktikum**  
   📘 Projek UAS MK AI Praktikum 2026  
   🛠️ Laravel                           
-  🔗 [Repository](https://github.com/Fachriditya/student-task-aiprak-scholartzy-2026.)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-aiprak-scholartzy-2026.git)
 
 - **Aplikasi Mobile Praktikum**  
   📘 Projek UAS MK Aplikasi Mobile Praktikum 2026  
