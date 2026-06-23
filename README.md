@@ -37,8 +37,6 @@
 <summary>💻 Languages</summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <summary>🧩 Frameworks</summary>
@@ -70,15 +68,35 @@
 <details>
 <summary>🎓 Student Tasks</summary>
 
-- **Pemrograman Basis Data**  
-  📘 Projek UAS MK PBD 2025  
+- **Pemrograman Basis Data Praktikum**  
+  📘 Projek UAS MK PBD Praktikum 2025  
   🛠️ MySQL, Laravel                       
-  🔗 [Repository](https://github.com/Fachriditya/student-task-pbd-uas-2025)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pbdprak-systeminventory-2025.git)
 
 - **Pengembangan Web Berbasis Framework**  
-  📘 Projek UAS MK PWBF 2025  
+  📘 Projek UAS MK PWBF Praktikum 2025  
   🛠️ Laravel                           
-  🔗 [Repository](https://github.com/Fachriditya/student-task-pwbf-uas-2025)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pwbfprak-rshp-2025.)
+
+- **Pengujian Perangkat Lunak Praktikum**  
+  📘 Personal project sederhana bertema tabungan keluarga menggunakan Laravel untuk MK PPL Praktikum 2026                          
+  🛠️ MySQL, Laravel, Tailwind CSS                           
+  🔗 [Repository](https://github.com/Fachriditya/student-task-pplprak-familywallet-2026.)
+
+- **Workshop Framework**  
+  📘 Web untuk Modul Penugasan MK Workshop Framework 2026                          
+  🛠️ Laravel                          
+  🔗 [Repository](https://github.com/Fachriditya/student-task-frameworkshop-koleksibuku-2026.)
+  
+- **Kecerdasan Buatan Praktikum**  
+  📘 Projek UAS MK AI Praktikum 2026  
+  🛠️ Laravel                           
+  🔗 [Repository](https://github.com/Fachriditya/student-task-aiprak-scholartzy-2026.)
+
+- **Aplikasi Mobile Praktikum**  
+  📘 Projek UAS MK Aplikasi Mobile Praktikum 2026  
+  🛠️ Flutter                          
+  🔗 [Repository](https://github.com/Fachriditya/student-task-mobileprak-ehelpdesk-2026.git)
 
 </details>
 
@@ -88,7 +106,7 @@
 - **Family Wallet 2026**  
   🌐 Personal project sederhana untuk tabungan keluarga menggunakan Laravel                                
   🛠️ MySQL, Laravel, Tailwind CSS                           
-  🔗 [Repository](https://github.com/Fachriditya/project-dev-family-wallet-2026)
+  🔗 [Repository](https://github.com/Fachriditya/student-task-mobileprak-ehelpdesk-2026.)
 
 </details>
 
