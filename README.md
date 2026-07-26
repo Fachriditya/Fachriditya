@@ -9,10 +9,6 @@
 
 <!-- About Me -->
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
 ## 👨‍💻 About Me
 
 ```json
@@ -35,19 +31,15 @@
   ]
 }
 ```
-
-</td>
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl5eXAzZHptZWlzZ2IxNTlodnZ0b3djNnJjcmxvNXNjNnBibmFnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" />
-</td>
-</tr>
-</table>
-
 ---
 
 <!-- Languanges & Tools -->
 
 ## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
 <summary>💻 Languages</summary>
 <br>
@@ -105,6 +97,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
+</td>
+<td width="35%" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl5eXAzZHptZWlzZ2IxNTlodnZ0b3djNnJjcmxvNXNjNnBibmFnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" />
+</td>
+</tr>
+</table>
+
 ---
 
 <!-- Projects -->
@@ -112,7 +111,7 @@
 ## 📂 Projects
 
 <details>
-<summary>🎓 Student Tasks</summary>
+<summary>🎓 Academic Projects</summary>
   
 - **Pemrograman Basis Data Praktikum**  
   📘 Projek UAS MK PBD Praktikum 2025  
@@ -147,12 +146,32 @@
 </details>
 
 <details>
-<summary>💼 Development Projects</summary>
+<summary>🚀 Personal Projects</summary>
   
-- **Qitchen Restaurant Workflow System (2026)**                                
-  🌐 Personal project for a modern restaurant workflow and management system                       
-  🛠️ Laravel, MySQL, Tailwind CSS                                  
-  🔗 [Repository](https://github.com/Fachriditya/project-dev-qitchen-2026.git)
+- **Qitchen**                      
+  📘 A modern self-service restaurant workflow system.                                                
+  🛠️ Laravel, MySQL, Tailwind CSS                      
+  🔗 [Repository](https://github.com/Fachriditya/project-dev-qitchen-2026.git)            
+
+</details>
+
+<details>
+<summary>🤝 Collaborative Projects</summary>
+
+- **Re-Key**                                  
+  📘 Website Edukasi Pengelolaan Limbah Plastik Menjadi Foldable Totebag Keychain.        
+  🛠️ PHP Native            
+  🔗 [Repository](https://github.com/cindytiaraa/kim-education.git)
+
+</details>
+
+<details>
+<summary>💼 Professional Projects</summary>
+
+- **SIKAS**                        
+  📘 Sistem Informasi Kas Syariah untuk UMKM.            
+  🛠️ Python, SQLite             
+  🔗 [Repository](https://github.com/ZaganJade/SIKAS_Syariah.git)   
 
 </details>
 
